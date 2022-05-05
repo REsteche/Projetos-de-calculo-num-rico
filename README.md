@@ -8,7 +8,9 @@ Here you can find the two projects of the course studied during 2016.2- the code
 point arithmetic techniques and specific rounding criteria, and 1 adjustment project with linear and non-linear regression. Both source 
 codes were developed in C via codeblocks and have reports produced via Overleaf
 
- * Curso ofertado por: @UFPE
+ * Curso ofertado por: @UFPE 
+ 
+ * Site da disciplina: https://www.cin.ufpe.br/~if215/teaching_staff.html
 
  * Project Owners: @REsteche & @tertius94 
  
