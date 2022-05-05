@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1474791260 source:c:\users\filip_000\desktop\projeto calc_num\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
