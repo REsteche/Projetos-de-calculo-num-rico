@@ -14,7 +14,7 @@ codes were developed in C via codeblocks and have reports produced via Overleaf
 
  * Project Owners: @REsteche & @tertius94 
  
-![me](https://img.shields.io/github/license/REsteche/Projetos-de-calculo-num-rico.svg) 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 	
 ## badges
 ![C](https://img.shields.io/badge/C-00599C?style=Plastic&logo=c&logoColor=white)
