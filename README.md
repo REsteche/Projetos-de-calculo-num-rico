@@ -22,7 +22,6 @@ codes were developed in C via codeblocks and have reports produced via Overleaf
 ![overleaf](https://img.shields.io/badge/Overleaf-47A141?style=Plastic&logo=Overleaf&logoColor=white)
 
 
-![warning](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![tex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)
 
 
